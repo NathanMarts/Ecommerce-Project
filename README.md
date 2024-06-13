@@ -1,19 +1,11 @@
-# app2
+﻿# Ecommerce-Project
 
-## Project setup
-```
-yarn install
-```
+Um projeto simples em Vue.js
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+## Funcionalidades
 
-### Compiles and minifies for production
-```
-yarn build
-```
+## Tecnologias
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="40" height="40" />](https://pt.vuejs.org) [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain.svg" />](https://axios-http.com/docs/intro) [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" />](https://tailwindcss.com/)
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Status
+![Em andamento](https://img.shields.io/badge/status-Em_Andamento-yellow)
